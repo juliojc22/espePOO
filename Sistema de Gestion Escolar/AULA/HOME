@@ -1,9 +1,0 @@
-@{
-    ViewData["Title"] = "Aula";
-}
-
-<h1> Aula </h1>
-<p>
-    Sistema de Gestión Escolar
-
-</p>
