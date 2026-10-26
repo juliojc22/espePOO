@@ -18,7 +18,7 @@ Sigue estos pasos para configurar el entorno local, aplicar las migraciones de l
 
 1. Requisitos Previos
 
-* [.NET SDK](https://dotnet.microsoft.com/) (Versión 10.0.402)
+* [.NET SDK](https://dotnet.microsoft.com/) (Versión 10.0.402).
 * [SQL Server 2025].
 * Entity Framework Core CLI instalado.
 * SSMS 22.
