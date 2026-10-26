@@ -1,6 +1,6 @@
 # 🏫 Sistema de Gestión Escolar
 
-Un sistema web desarrollado para administrar y gestionar los procesos académicos, administrativos y de matriculación en una institución educativa.
+Un sistema web desarrollado para administrar y gestionar los procesos académicos, en una institución educativa.
 
 ---
 
