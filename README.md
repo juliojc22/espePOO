@@ -6,10 +6,10 @@ Un sistema web desarrollado para administrar y gestionar los procesos académico
 
   Integrantes y Entidades Desarrolladas
 
-| Integrante | Entidad / Módulo Asignado | Descripción |
-| :--- | :--- | :--- |
-| **Julio Emerson Coro Pineida** | `Estudiante` | MODULO DE AULAS Y MAESTROS  |
-| **Darla Sabrina Llano Guamani** | `Estudiante` | MODULO DE CALIFICACIONES Y ALUMNOS|
+| Integrante | Entidad / Módulo Asignado | Descripción | Participación |
+| :--- | :--- | :--- | :--- |
+| **Julio Emerson Coro Pineida** | `Estudiante` | MODULO DE AULAS Y MAESTROS  | 100% |
+| **Darla Sabrina Llano Guamani** | `Estudiante` | MODULO DE CALIFICACIONES Y ALUMNOS| 100% |
 
 
   Pasos para Ejecutar el Proyecto
