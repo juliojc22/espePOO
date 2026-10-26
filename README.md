@@ -37,7 +37,7 @@ Abre el archivo `JSON.cs` ubicado en la raíz del proyecto principal y configura
   }
 }
 
----
+...
 
 3. Pasos:
   Install-Package System.Security.Cryptography.Pkcs
