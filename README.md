@@ -1,10 +1,10 @@
-# 🏫 Sistema de Gestión Escolar
+#  Sistema de Gestión Escolar
 
 Un sistema web desarrollado para administrar y gestionar los procesos académicos, en una institución educativa.
 
 ---
 
-## 👥 Integrantes y Entidades Desarrolladas
+  Integrantes y Entidades Desarrolladas
 
 | Integrante | Entidad / Módulo Asignado | Descripción |
 | :--- | :--- | :--- |
@@ -12,11 +12,11 @@ Un sistema web desarrollado para administrar y gestionar los procesos académico
 | **Darla Sabrina Llano Guamani** | `Estudiante` | MODULO DE CALIFICAICONES Y ALUMNOS|
 
 
-## 🚀 Pasos para Ejecutar el Proyecto
+  Pasos para Ejecutar el Proyecto
 
 Sigue estos pasos para configurar el entorno local, aplicar las migraciones de la base de datos y ejecutar la aplicación.
 
-### 1. Requisitos Previos
+1. Requisitos Previos
 
 * [.NET SDK](https://dotnet.microsoft.com/) (Versión 6.0, 7.0 u 8.0 según corresponda)
 * [SQL Server Express / LocalDB] o motor de base de datos de tu elección.
@@ -24,7 +24,7 @@ Sigue estos pasos para configurar el entorno local, aplicar las migraciones de l
 
 ---
 
-### 2. Configurar la Cadena de Conexión (Connection String)
+2. Configurar la Cadena de Conexión (Connection String)
 
 Abre el archivo `appsettings.json` ubicado en la raíz del proyecto principal y configura la cadena de conexión apuntando a tu servidor local de SQL Server:
 
