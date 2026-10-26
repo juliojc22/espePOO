@@ -36,3 +36,8 @@ Abre el archivo `JSON.cs` ubicado en la raíz del proyecto principal y configura
     "SGEContext": "Server=localhost;Database=SGEADB;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=true"
   }
 }
+
+3. Pasos:
+  Install-Package System.Security.Cryptography.Pkcs
+  Add-Migration InitialCreate
+  Update-Database
