@@ -8,7 +8,7 @@ Un sistema web desarrollado para administrar y gestionar los procesos académico
 
 | Integrante | Entidad / Módulo Asignado | Descripción |
 | :--- | :--- | :--- |
-| **Julio Emerson Coro Pienida** | `Estudiante` | MODULO DE AULAS Y MAESTROS  |
+| **Julio Emerson Coro Pineida** | `Estudiante` | MODULO DE AULAS Y MAESTROS  |
 | **Darla Sabrina Llano Guamani** | `Estudiante` | MODULO DE CALIFICAICONES Y ALUMNOS|
 
 
