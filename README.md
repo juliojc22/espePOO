@@ -22,7 +22,7 @@ Sigue estos pasos para configurar el entorno local, aplicar las migraciones de l
 * [SQL Server 2025]
 * Entity Framework Core CLI instalado.
 * SSMS 22
-* Visual Studio 2026
+* Visual Studio 2026.
 
 ---
 
