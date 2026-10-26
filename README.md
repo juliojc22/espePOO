@@ -16,7 +16,7 @@ Un sistema web desarrollado para administrar y gestionar los procesos académico
 
 Sigue estos pasos para configurar el entorno local, aplicar las migraciones de la base de datos y ejecutar la aplicación.
 
-1. Requisitos Previos
+1. Requisitos Previos.
 
 * [.NET SDK](https://dotnet.microsoft.com/) (Versión 10.0.402).
 * [SQL Server 2025].
