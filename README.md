@@ -26,7 +26,7 @@ Sigue estos pasos para configurar el entorno local, aplicar las migraciones de l
 
 2. Configurar la Cadena de Conexión (Connection String)
 
-Abre el archivo `appsettings.json` ubicado en la raíz del proyecto principal y configura la cadena de conexión apuntando a tu servidor local de SQL Server:
+Abre el archivo `JSON.cs` ubicado en la raíz del proyecto principal y configura la cadena de conexión apuntando a tu servidor local de SQL Server:
 
 ```json
 {
