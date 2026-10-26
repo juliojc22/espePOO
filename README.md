@@ -32,6 +32,6 @@ Abre el archivo `JSON.cs` ubicado en la raíz del proyecto principal y configura
 ```json
 {
   "ConnectionStrings": {
-    "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=GestionEscolarDB;Trusted_Connection=True;MultipleActiveResultSets=true"
+    "SGEContext": "Server=localhost;Database=SGEADB;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=true"
   }
 }
